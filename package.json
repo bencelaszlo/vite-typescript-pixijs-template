@@ -1,7 +1,7 @@
 {
   "name": "vite-typescript-pixijs-template",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^5.0.2",
-    "vite": "^4.5.3"
+    "typescript": "^5.4.5",
+    "vite": "^5.2.8"
   },
   "dependencies": {
-    "pixi.js": "^7.3.2"
+    "pixi.js": "^8.1.0"
   }
 }
